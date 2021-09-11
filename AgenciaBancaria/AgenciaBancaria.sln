@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AgenciaBancaria.Dominio", "AgenciaBancaria.Dominio\AgenciaBancaria.Dominio.csproj", "{763248AA-863C-4C2E-B1EA-7E42890D855B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AgenciaBancaria.App", "AgenciaBancaria.App\AgenciaBancaria.App.csproj", "{5415DC33-BDB4-4C16-8234-7363531EEF6B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{763248AA-863C-4C2E-B1EA-7E42890D855B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{763248AA-863C-4C2E-B1EA-7E42890D855B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{763248AA-863C-4C2E-B1EA-7E42890D855B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{763248AA-863C-4C2E-B1EA-7E42890D855B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5415DC33-BDB4-4C16-8234-7363531EEF6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5415DC33-BDB4-4C16-8234-7363531EEF6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5415DC33-BDB4-4C16-8234-7363531EEF6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5415DC33-BDB4-4C16-8234-7363531EEF6B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {440C0C70-D62C-4207-B9E9-4CE007693FCF}
+	EndGlobalSection
+EndGlobal
